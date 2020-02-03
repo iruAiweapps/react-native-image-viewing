@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     ...StyleSheet.absoluteFillObject,
     zIndex: 1000,
     backgroundColor: "transparent",
-    top: StatusBar.currentHeight
+    top: 0,
   }
 });
 
