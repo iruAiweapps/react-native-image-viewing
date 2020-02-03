@@ -17,7 +17,8 @@
     "image-viewer"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "peerDependencies": {
     "react": ">=16.11.0",
