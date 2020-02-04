@@ -95,7 +95,6 @@ function ImageViewing({
           data={images}
           horizontal
           pagingEnabled
-          windowSize={2}
           showsHorizontalScrollIndicator={false}
           showsVerticalScrollIndicator={false}
           initialScrollIndex={imageIndex}
