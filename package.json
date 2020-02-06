@@ -1,6 +1,6 @@
 {
-  "name": "@aiweapps/react-native-image-viewing",
-  "version": "0.1.3",
+  "name": "iru-react-native-image-viewing",
+  "version": "1.0.0",
   "description": "React Native modal component for viewing images as a sliding gallery",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
